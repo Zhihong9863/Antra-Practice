@@ -1,6 +1,6 @@
 # Antra-Practice
 
-## Homework1( Using stream in Leetcode actually resulted in a significant decrease in performance :)) )
+## Homework1 - Using stream in Leetcode actually resulted in a significant decrease in performance :)) 
 
 ### 387. First Unique Character in a String
 ![image](https://github.com/user-attachments/assets/ebe3ca59-61f1-4fbc-b86d-c31e99561316)
