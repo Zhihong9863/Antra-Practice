@@ -23,7 +23,8 @@ public class leetcode347 {
         int[] result2 = new leetcode347().topKFrequent(nums2, k2);
         System.out.println(Arrays.toString(result2)); // Expected: [1]
 
-    }
+    }    
+    
     public int[] topKFrequent(int[] nums, int k) {
         Map<Integer, Integer> freq = Arrays.stream(nums)
                 .boxed()
