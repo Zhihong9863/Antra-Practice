@@ -22,3 +22,15 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+# Ignore IntelliJ IDEA files
+.idea/
+*.iml
+
+# Ignore build output directories
+out/
+target/
+build/
+
+# Exclude class files
+*.class
